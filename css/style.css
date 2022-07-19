@@ -196,6 +196,10 @@ footer{
     font-size: 1.8rem;
     padding: 12px;
 }
+.btn:hover{
+    background-color: white;
+    color: black;
+}
 
 /* Responsive attributes */
 /* Navigation  */
