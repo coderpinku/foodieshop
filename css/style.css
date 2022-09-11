@@ -24,7 +24,7 @@ html{
 }
 #navbar ul{
     display: flex;
-    position: sticky;
+    /* position: sticky; */
 }
 #navbar::before{
     content: "";
